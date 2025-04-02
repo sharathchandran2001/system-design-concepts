@@ -6,6 +6,7 @@ System Design Concepts - An architect's perspective and emphasizing the importan
 
 Summary: Defines the fundamental communication pattern where clients request services from servers. Crucial for distributed systems.
 Architect's View: Essential for understanding how components interact, impacts scalability, security, and resource management.
+
 2. IP Address:
 
 Summary: Unique numerical label assigned to each device participating in a computer network.
